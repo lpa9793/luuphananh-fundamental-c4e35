@@ -1,3 +1,12 @@
+# We can identify a variable’s type by looking at the quotation marks: 
+Strings consist of strings of letters, so they must be enclosed in quotation marks; while integers are not.
+
+If we give a variable an illegal name, we will get SyntaxError. These are the cases where variable names are invalid:
+-	The name does not begin with a letter or an underscore (_). Example: 97PhanAnh
+-	The name contains special characters. Example: abc%
+-	The name is identified as a keyword in Python. Example: def
+
+
 # Calculates the area of a circle
 
 a=int(input("Radius? "))
