@@ -1,0 +1,24 @@
+1. What is Boolean? Write down 3 different expression that results a Boolean type (i.e. 5 == 6)
+- A Boolean value is either true or false. A Boolean expression is an expression that evaluates to produce a result which is a Boolean
+value.
+- Examples:
+8 <= 9
+"hi" == "hello"
+100 > 1000
+
+2. What is a flow chart? Draw flow chart for the following code snippet:
+- A flow chart is a diagram that represents a workflow, a process or computer algorithms.
+- Draw flow chart: https://drive.google.com/file/d/1czWVXAZKCXcM26aQr-vV5z32QKsmGbq9/view?usp=sharing
+
+3. What is nested conditionals? Write a piece of code that uses nested conditionals
+- A conditional can be nested within another.
+- Examples:
+
+x=float(input("Nhap so: "))
+if x>0:
+    print("x la so duong")
+else:
+    if x==0:
+        print("x bang 0")
+    else:
+        print("x la so am")
