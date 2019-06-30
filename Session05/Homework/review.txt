@@ -1,0 +1,26 @@
+1. Why should we use functions at all?
+- Functions help us organize programs into chunks that match how we think about the problem.
+
+2. How to define/declare a function?
+- We define/declare a function with the keyword 'def' followed by the function name. 
+- Write the parameters (optional) inside the opening and closing parenthesis of the function, and end the declaration with a colon.
+
+3. How to call/use a function?
+- Outside a function, use the function name followed by parenthesis. 
+- Include the arguments which are assigned to the parameters in the function definition inside the parenthesis.
+- Once we’ve defined a function, we can call it as often as we like, and its statements will be executed each time we call it.
+
+4. What is return, why and how do we use it?
+- A return statement is used to let a function return a value when it is called.
+- A return statement must be inside the function's body.
+- It however causes the function to exit or terminate immediately, even if it is not the last statement of the function.
+
+5. Do we have to use return in every function?
+- No, the return statement is not necessarily used in every function. 
+
+6. What are function arguments/parameters, why and how we use it?
+- A function argument is a value provided to a function when the function is called. This value is assigned to the corresponding parameter in the function.
+- The argument can be the result of an expression which may involve operators, operands and calls to other fruitful functions.
+
+7. How to use function from a different file other than our currently working file?
+- To use function from a different file other than our currently working file, we need to import the function from that file by using the import statement.
